@@ -1,0 +1,6 @@
+﻿  w1p2.c
+C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop2\w1p2.c(23,3): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop2\w1p2.c(18,9): warning C4473: 'printf' : not enough arguments passed for format string
+C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop2\w1p2.c(18,9): message : placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop2\w1p2.c(18,9): message : the missing variadic argument 1 is required by format string '% thi'
+  Workshop1.vcxproj -> C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop1\Workshop1\x64\Debug\Workshop1.exe

@@ -1,0 +1,3 @@
+C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop1\obj\Debug\Workshop1.csproj.AssemblyReference.cache
+C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop1\obj\Debug\Workshop1.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohde\Documents\SENECA COLLEGE\Workshop 1 IPC\WS01\Workshop1\obj\Debug\Workshop1.csproj.CoreCompileInputs.cache

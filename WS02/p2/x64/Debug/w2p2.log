@@ -1,0 +1,15 @@
+﻿  w2p2.c
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(197,7): error C2065: 'x': undeclared identifier
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(197,10): error C2065: 'y': undeclared identifier
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(201,15): error C2065: 'Blank': undeclared identifier
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(201,15): error C2143: syntax error: missing ')' before 'constant'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(201,16): error C2059: syntax error: ')'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(201,18): error C2143: syntax error: missing ';' before '{'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(203,20): error C2065: 'Blank': undeclared identifier
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(203,20): error C2143: syntax error: missing ')' before 'constant'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(203,21): error C2059: syntax error: ')'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(203,23): error C2143: syntax error: missing ';' before '{'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(205,5): error C2059: syntax error: 'else'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(207,1): error C2059: syntax error: '}'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(221,1): error C2059: syntax error: '}'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS02\p2\w2p2.c(227,1): error C2059: syntax error: '}'

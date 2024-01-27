@@ -1,0 +1,11 @@
+﻿  a1ms2.c
+  clinic.c
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS2\core.h(132,44): warning C4028: formal parameter 1 different from declaration
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS2\clinic.c(366,13): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS2\clinic.c(430,21): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS2\clinic.c(460,9): warning C4013: 'strncpy' undefined; assuming extern returning int
+  core.c
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS2\core.h(132,44): warning C4028: formal parameter 1 different from declaration
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS2\core.c(194,34): warning C4028: formal parameter 1 different from declaration
+  Generating Code...
+  a1ms2.vcxproj -> C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS2\x64\Debug\a1ms2.exe

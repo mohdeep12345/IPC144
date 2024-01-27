@@ -1,0 +1,32 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #7
+Full Name  : Mohdeep Singh
+Student ID#: 109600239
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1: Yes, I succefully wrote the code to play Tresure hunt game. I didnt face any diffculty writing it on the Visual studio. I used some of the methods to avoid non reptetive in the game portion. First, I break down the game into seperate functions. for, example, I created a functions for displaying the board ruler, update the the players position on the ruler, checking if thier is a bom or a treasure and handling the user input. 
+
+Next I use appropriate data structures to store and handle game related information. for example, array to store game board, the player history, bomb placements, treausure placements. By organizing the data structures in a good way, its easy to manipulate in the code. I also use loops such as for loop to storing or showing indexing of the arrays.
+
+Answer 2: Structures makes my program more simpler and more organised. structs allows me to made custom data types that can create a group related info. together. ... this is allows me to store playerinfo in one Playeinfo struct, game info in Gameinfo.etc. By puting information together its easier to manipulate in the code. i dont have to use seperate data variables for each piece of information. Structures also improves readibility and maintanibilty of the pragram or code. by using structs I can represent the data in more clear and organised way. 
+
+in contrast, withour structures, I would have needed to use separate variables for each piece of information, this will make my code more harder to maintain and lead to cluttered.
+
+Answer 3:  
+
+		For my code this is the maximum no of nesting : 
+
+		if (Consition1)
+                {
+                    Level 1 code block
+                }
+                else
+                {
+                    level 1 code block
+                }

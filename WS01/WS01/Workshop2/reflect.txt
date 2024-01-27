@@ -1,0 +1,27 @@
+///////////////////////////////////////////////////////////////////////////
+
+                              Reflection
+                             Workshop - #1
+Full Name  : Mohdeep Singh	
+Student ID#: 109600239
+Email      : Msingh820@myseneca.ca
+Section    : NBB
+
+Authenticity Declaration:
+
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1. I don't have any coding expereince in the past and this is the first time
+	    I will be using C as a language to enter in the programming world. 
+          I am hoping for the best to learn from the lectures and also hand on practice at home.
+
+Answer 2. So this is the first time I used MS visuals to write a program in c++ 
+	    language. It was not quite easy as I am totally new to this language.
+	    If I practice more and more and try to explore different things from the 
+	    lab matrial, I will be good at it. 
+
+Answer 3. My goal is to practice more and more untill I become a pro.
+	    

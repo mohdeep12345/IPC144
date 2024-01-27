@@ -1,0 +1,10 @@
+﻿  clinic.c
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(591,39): error C2440: 'function': cannot convert from 'Date' to 'Appointment *'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(591,35): warning C4024: 'timeSlotAvailable': different types for formal and actual parameter 1
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(591,45): error C2440: 'function': cannot convert from 'Time' to 'int'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(591,41): warning C4024: 'timeSlotAvailable': different types for formal and actual parameter 2
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(591,47): warning C4020: 'timeSlotAvailable': too many actual parameters
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(607,17): warning C4013: 'nextOpenSlot' undefined; assuming extern returning int
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(761,35): warning C4028: formal parameter 1 different from declaration
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(761,53): warning C4028: formal parameter 2 different from declaration
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\MS3\clinic.c(761,105): warning C4029: declared formal parameter list different from definition

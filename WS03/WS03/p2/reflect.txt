@@ -1,0 +1,42 @@
+///////////////////////////////////////////////////////////////////////////
+                              Reflection
+                          Workshop - #3 (P2)
+Full Name  : Mohdeep Singh	
+Student ID#: 109600239
+Email      : msingh820@myseneca.ca
+Section    : NBB
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1:  
+		if(daily_serving > 0 and daily_serving <=4)
+		{coffeePackage = 250;}
+		if(daily_serving > 5 and daily_serving <=9)
+		{coffeePackage = 500;}
+		if(daily_serving > 10)
+		{coffeePackage = 1000;}
+
+	     if customer required daily serving between 1 to 4 than coffee package weight would be 250g
+	     if customer required daily serving between 5 to 9 than coffee package weight would be 500g
+	     if customer required daily serving between 10 or more coffee package weight would be 1000g
+	A)   used 3 expressions
+	B)   three. see above.
+
+Answer 2: 	with out DeMorgan's Law :                        With DeMorgan's Law : 
+		
+             (p3_id != p2_id) && (p3_id != p1_id);          !(p3 == p2) || (p3 == p1)
+
+Answer 3:   1. I used comments to organise the code . by using // comment line.
+		2. by using same variable type .
+
+			for example : char cof_str1, cream1, cof_str2, cream2, cof_str3, cream3;
+			instead of  : char cof_str1;
+					  char cream1;
+					  char cof_str2;
+					  char cream2;
+					  char cof_str3;
+					  char cream3;

@@ -1,0 +1,45 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Milestone - #1,2,3
+Full Name  : Mohdeep Singh
+Student ID#: 109600239
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1: The following are some of the functions I developed to help with my workflow.
+
+- int validAppointment(int patientNumber, struct Date date, struct Appointment *app, int maxAppointments);
+    This function verifies that the user's appointment data are correct and that the appointment exists. The appointment's index value in the Appointment struct array is returned by this function. This was utilised in the'removeAppointment' function to determine whether or not the appointment that the user wanted to delete existed.
+
+- int nextOpenSlot(struct Appointment* app, int maxAppointments);
+   This function determines whether the Appointment struct array can accommodate more appointment entries by examining any entries with a patient number value less than one. This function returns '1' if a slot is available and '0' if it is not. I used it in the 'addAppointment' function to see whether there was room for another appointment.
+
+- void sorting(struct Appointment appoints[], int max);
+    This function accepts the Appointment struct array and uses bubble sort to sort the values in ascending order. Year, month, day, hour, and minute statistics are included. As a result, the function turns everything into minutes for sorting and then back to their original values once the sorting is complete. This was mostly utilised in the view function.
+
+These functions have made managing appointments and patient records more efficient and organized in my workflow.
+
+Answer 2: I reduced the number of "scanf" function calls in the code for a few important reasons that help make the program better. Here's why:
+1. Making Life Simpler: To handle the data I type in, I developed unique functions like inputIntRange, inputCharOption, and inputCStringNumbers. These features ensure that the amount and format of what you enter are precisely right—neither too much nor too little.
+2. Using Code in Different Ways: I organized the code so that the parts that deal with my input are neatly packed into their own special functions. This is like having building blocks that you can use in different parts of the program without having to write the same thing over and over again.
+3. Keeping Everything Running Smoothly: I didn't use "scanf" too much because it can sometimes cause issues with how the program runs and how reliable it is. The special functions I made are like tools that are just right for the job, so they make sure your information gets handled properly without causing any problems.
+
+Answer 3:  1. validAppointment Function:
+Module: "AppointmentValidation"
+Reason: I created a separate place just for checking appointments because it keeps this specific job apart from everything else. This helps keep the code organized and makes it easier to fix or change appointment-related things later on. Also, we can use this place in different parts of the program when we need to check appointments, which saves time and makes sure we're checking the same way everywhere.
+
+2.nextOpenSlot Function:
+Module: "AppointmentManagement"
+Reason: This function is like the manager of appointment slots. It decides if there's room for more appointments or not. Since the AppointmentManagement module takes care of adding, removing, and checking appointments, it's a good fit. It's like putting all the appointment-related tasks in one box, so we can find them easily and understand how they work together.
+
+3. sorting Function:
+Module: "AppointmentSorting"
+Reason: Sorting appointments is a specific task, like putting things in order by date and time. So, I put this function in a module just for sorting appointments. This way, if we want to change how appointments are sorted, 
+we only need to look in one place. 
+It keeps the sorting stuff separate and organized, which makes the whole program easier to read and take care of.
+
+In simple terms, I placed each function where it logically fits, aiming for a well-organized and tidy structure. This helps ensure that each task has its proper place, making it easy to manage and fix things later on. The ultimate objective was to establish a setup that's easy to handle, simplifying any future maintenance or problem-solving efforts.

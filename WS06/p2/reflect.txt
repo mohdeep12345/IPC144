@@ -1,0 +1,30 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #6
+Full Name  : 	Mohdeep Singh	
+Student ID#: 109600239
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1 : There are 3 types of iterations constructs for loop, while loop do while loop. They offer different approcahes to control the flow of program depending on the demand of the problem. Each one of them have its own strenghts and functions. Typically favourable for array is "for" loop. This provides convinient and concise way tp iterate over the array. It also provide direct access to index. The "for" loop provide good performance as it initialize, check condition and increament and decreament in the same statement. 
+
+Answer 2 : While testing my code i followed below steps.
+1. I write test cases to cover different scenarios and inputs, including both min and max cases.
+2. I execute the programs with the test cases and compare the output value with expected value.
+3. if the program gives me a incorrect output, i jump on to debugging phase.
+Systactic Problem Debugging.
+If there are any syntax errors, the IDE provides error messages indicating the line no. and the type of error.
+I carefully analyze the error message and try to find the way to correct it.
+I also check the surrounding of the line of error. 
+Once i find the error, I fix it and recompile the code. 
+Semantic Problem Debugging.
+If the code compiles succesfully but genrates incorrect results or unexpected behaviour, it means there is a semantic problem.
+I begin adding some printf statements where i expect to get the values.
+I also review the algorithm and logic of the program to make ensure that is correct and aligned with the problem's requirements.
+
+Answer 3 : This clearly says that the output is not matching with the desired output. its shows where is the mistake that is in line 6 . I can see my output and the correct output below.  further more it also says that my ascii code is not matching with the correct ascii code ..... that is instead of [0] i have [5] in the line 6 of the code. 
+gcc compiler also makes two txt files so that its easy two compare and find the error. 

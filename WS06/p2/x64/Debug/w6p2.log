@@ -1,0 +1,10 @@
+﻿  w6p2.c
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(140,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(142,36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(165,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(167,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(185,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(187,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(205,35): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\w6p2.c(207,44): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  w6p2.vcxproj -> C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS06\p2\x64\Debug\w6p2.exe

@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\Lectures\Week4\Project1\Source.c(125,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\Lectures\Week4\Project1\Source.c(128,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\Lectures\Week4\Project1\Source.c(132,12): warning C4477: 'printf' : format string '%0.2lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\Lectures\Week4\Project1\Source.c(133,12): warning C4477: 'printf' : format string '%0.2lf' requires an argument of type 'double', but variadic argument 1 has type 'int'
+  Project1.vcxproj -> C:\Users\mohde\Documents\SENECA COLLEGE\IPC\Lectures\Week4\Project1\x64\Debug\Project1.exe

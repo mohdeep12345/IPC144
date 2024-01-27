@@ -1,0 +1,4 @@
+w3p2.c: In function ‘main’:
+w3p2.c:79:34: warning: statement with no effect [-Wunused-value]
+     scanf(" %d", &user_serving); "\n";
+                                  ^

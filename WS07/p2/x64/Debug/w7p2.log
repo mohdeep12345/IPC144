@@ -1,0 +1,5 @@
+﻿  w7p2.c
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS07\p2\w7p2.c(20,1): warning C4005: 'MINIMUM_LIVES': macro redefinition
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS07\p2\w7p2.c(18,1): message : see previous definition of 'MINIMUM_LIVES'
+C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS07\p2\w7p2.c(183,18): warning C4552: '+': result of expression not used
+  w7p2.vcxproj -> C:\Users\mohde\Documents\SENECA COLLEGE\IPC\WS07\p2\x64\Debug\w7p2.exe

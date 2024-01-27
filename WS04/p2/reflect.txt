@@ -1,0 +1,35 @@
+///////////////////////////////////////////////////////////////////////////
+                               Reflection
+                             Workshop - #4
+Full Name  : Mohdeep Singh
+Student ID#: 109600239
+
+Authenticity Declaration:
+I declare this submission is the result of my own work and has not been
+shared with any other student or 3rd party content provider. This submitted
+piece of work is entirely of my own creation.
+///////////////////////////////////////////////////////////////////////////
+
+Answer 1: Because it enables the programme to make choices and employ reasoning in statements, selection is a crucial programming notion. Programmes won't be able to execute a variety of alternate sequences without the use of selection; they will only be able to run from beginning to conclusion.
+I made my program so the user is entering a number of groceries that is fewer than, more than, or equal to the number of groceries they previously selected, I used a "if" statement. I was able to do particular actions if a certain condition was satisfied by using an if statement.
+
+I checked additional conditions linked to the user's chosen grocery alternatives by using a "else if" statement immediately following the "if" statement. This enabled me to carry out some activities that were intended to be carried out in response to a different condition than the one in the "if" block.
+
+At the end I made a Do-while loop for whole code to repeat. if 1(yes) that it goes to the beginning and if its 0(no)
+than exits from the program.
+
+Answer 2: Logic structures that are enclosed within one another form nested constructs. Crossword puzzles are comparable to nested constructs. You start by accessing the first row and iterating through all of its columns. 
+Then you move on to the second row and repeat through all of its columns. The third row is next, and so on. I've nested several while loops into a single while loop for the workshop. Until the user enters a zero to halt the loop, the single while loop iterates through each fruit once again. The fruits also have while loops, though. Each fruit has its own while loop, which repeatedly asks the user for input to prevent mistakes. As a result, the larger do while loop contains multiple while loops inside of it. An example of a nested construct is this.
+
+     It would significantly affect how workshops or any programmes involving complicated reasoning and decision-making would be implemented if nesting were not permitted in programming. Code blocks can be organised hierarchically and conditional statements can be nested inside of other conditional statements thanks to nesting.
+
+Answer 3:  It can be inefficient to use a succession of"if"  rather than the preferred "if /else if..." .	
+	   Redundant checks: Each condition is individually assessed using an order of "if" statements. Even when the right branch has already been found, each "if" statement will still be examined if the user input falls 	  
+	   within the acceptable range. This causes more checks to be run, which increases the computational 	  	 
+	   overhead. 
+	   redundant checks: Each condition is individually assessed using an order of "if" statements. Even when the   	
+	   right branch has already been found, each "if" statement will still be examined if the user input falls    	
+	   within the acceptable range. This causes more checks to be run, which increases the computational   	  	
+	   overhead.
+
+Alternative path logic using "if/else if..." offers a more effective and scalable solution with cleaner code organisation and improved performance.
